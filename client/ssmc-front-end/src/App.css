@@ -1,0 +1,25 @@
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #dde1e7;
+}
+
+.chanuka-theam-button{
+    border-radius: 3px;
+    border-color: grey;
+    font-size: 12px;
+    height: 16px;
+    width: 42px;
+    transition: .3s;
+    color: black;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.chanuka-theam-button:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}

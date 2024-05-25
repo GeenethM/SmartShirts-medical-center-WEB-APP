@@ -1,0 +1,114 @@
+/* h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+*{
+    font-family: 'poppins', sans-serif;
+} */
+
+
+
+
+/*For now comment*/
+#loging-body{
+    background-color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.logo{
+    position: fixed;
+    width: 10%;
+}
+#login-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+#login-container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+}
+#heading-1{
+    margin-top: -20%;
+    color: black;
+    font-family: latoblack_Italic;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+.input-field{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.input{
+    height: 40px;
+    width: 77%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: black;
+    padding: 0 0 0 45px;
+    background: aliceblue;
+    align-self: center;
+    border-color: silver;
+}
+/* ::-webkit-input-placeholder{
+    color: silver;
+    text-align: justify;
+    font-size: large;
+} */
+.submit{
+    border: none;
+    border-radius: 35px;
+    font-size: 22px;
+    height: 35px;
+    outline: none;
+    width: 50%;
+    background: #1877F2;
+    cursor: pointer;
+    transition: .3s;
+    font-weight: bold;
+    align-self: center;
+    color: white;
+    margin-right: 20px;
+}
+#login-register-button{
+    border: none;
+    border-radius: 35px;
+    font-size: 22px;
+    height: 35px;
+    outline: none;
+    width: 50%;
+    background: #31a24c;
+    cursor: pointer;
+    transition: .3s;
+    font-weight: bold;
+    align-self: center;
+    color: white;
+}
+.submit:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}
+#login-register-button:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}
+.login-buttons{
+    display: flex;
+    align-self: center;
+    width: 80%;
+
+
+}
+
+.submit a {
+    text-decoration: none;
+    color: white;
+}

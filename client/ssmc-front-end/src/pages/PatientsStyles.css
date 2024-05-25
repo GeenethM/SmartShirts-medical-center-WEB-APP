@@ -1,0 +1,57 @@
+#allpatient-main{
+    margin-left: 17%;
+}
+
+#allpatient-form-head {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#allpatient-sec-one {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+#allpatient-sec-two ol{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+#allpatient-sec-three {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#allpatient-mini-head {
+    margin-top: 15px;
+}
+
+#allpatient-sec-four {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+#allpatient-mini-head-two {
+    margin-top: 15px;
+}
+
+#allpatient-mini-head-three {
+    margin-top: 15px;
+}
+
+#allpatient-sec-five {
+    display: flex;
+    justify-content: space-around;
+}
+
+#allpatient-mini-head-four {
+    margin-top: 15px;
+}
+
+#allpatient-sec-six {
+    display: flex;
+    justify-content: space-around
+}

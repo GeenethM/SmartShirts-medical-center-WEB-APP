@@ -1,0 +1,116 @@
+#box-main{
+    /* border: 1px solid black; */
+    margin-left: 17%;
+    margin-right:1%;
+    height: 88vh;
+}
+
+#box-div {
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: space-around;
+}
+
+body {
+    /* background-color: #dde1e7; */
+}
+
+.box-one {
+    height: 400px;
+    width: 40%;
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    padding: 10px 20px;
+     /* box-shadow: 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+    -10px -10px 10px -1px rgba(255, 255, 255, 0.70);  */
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+    /* box-shadow: 10px 5px 5px rgb(183, 183, 183); */
+    /* 5px 5px 5px rgba(0, 0, 0, 0.2),
+    15px 15px 15px rgba(0, 0, 0, 0.2); */
+}
+
+.box-two {
+    height: 250px;
+    width: 52%;
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    padding-right: -20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+
+#box{
+    height: 50px;
+    width: 100px;
+    /* border: 1px s1olid black; */
+}
+
+h1 {
+    margin: 15px;
+    padding-left: -100px;
+    text-align: left;
+}
+
+#heading {
+    padding-left: -100px;
+}
+
+#box-secdiv {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    
+}
+
+.box-three{
+    height: 50px;
+    width: 40%;
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    margin-top: 39px;
+    padding-bottom: 90px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+
+.box-four {
+    height: 150px;
+    width: 52%;
+    /* border: 1px solid black; */
+    padding-bottom: 157px;
+    margin-top: -130px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+
+.box-four-text {
+    /* border: 1px solid black; */
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 307px;
+    width: 100%;
+}
+
+.div-pie {
+    /* border: 1px solid black; */
+    height: 307px;
+    width: 290px;
+}
+
+.box-text {
+    /* border: 1px solid black; */
+    width: 50%;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.box-line {
+    /* border: 1px solid black; */
+    padding-top: 20px;
+    width: 400px;
+}

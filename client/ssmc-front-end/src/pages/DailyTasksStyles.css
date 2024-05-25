@@ -1,0 +1,10 @@
+#dailytasks-main {
+    margin-left: 17%;
+    /* border: 1px solid black; */
+    height: 80vh;
+}
+
+#dailytasks-table {
+    height: 100%;
+    background-color: white;
+}
